@@ -1,0 +1,27 @@
+						Trabalho II - Dupla - Por e-mail
+							    Data 09/06
+--->Campeonato
+-->Caracteristicas
+->Registro:
+
+Time
+  -> Vetor de 11 posições String  (Jogadores do Time)
+  -> Cidade
+  -> Número de Vitórias
+  -> Nome do Time
+
+Jogo
+  -> Vetor 2 posições time (dois times do jogo)
+  -> Dia,Mes,Ano 
+  -> Vencedor:interger
+
+> Vetor 38 posições jogo
+> Vetor 20 posições Time
+
+Menu
+  -> Cadastrar Time (cadastrar time no vetor de 20 posições do tipo TTime)//pronto
+  -> Editar Jogador (pedir o time, o nome do jogador, e trocar o nome do jogador)//pronto
+  -> Cadastrar Jogo (Pedir o nome dos dois times, e a data do jogo, no vetor de 38 posições)
+  -> Inserir Vitória para o time (pesquisar o jogo pela data(no vetor de 38), inserir o time e adicionar +1 na vitoria)
+  -> Imprimir Rank (imprimir os maiores vencedores para os menores)
+  -> Imprimir Times (imprimir todas os times)
